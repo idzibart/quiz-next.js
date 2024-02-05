@@ -1,0 +1,369 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "answers": ["London", "Paris", "Berlin", "Madrid"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answers": [
+        "Vincent van Gogh",
+        "Leonardo da Vinci",
+        "Pablo Picasso",
+        "Michelangelo"
+      ],
+      "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "answers": [
+        "Nucleus",
+        "Ribosome",
+        "Mitochondria",
+        "Endoplasmic Reticulum"
+      ],
+      "correctAnswer": "Mitochondria"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answers": ["Mars", "Venus", "Jupiter", "Saturn"],
+      "correctAnswer": "Jupiter"
+    },
+    {
+      "question": "In which year did World War I begin?",
+      "answers": ["1914", "1916", "1918", "1920"],
+      "correctAnswer": "1914"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "answers": [
+        "William Shakespeare",
+        "Charles Dickens",
+        "Jane Austen",
+        "Mark Twain"
+      ],
+      "correctAnswer": "William Shakespeare"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answers": ["Gd", "Au", "Go", "Ag"],
+      "correctAnswer": "Au"
+    },
+    {
+      "question": "Which country is the largest in area?",
+      "answers": ["Russia", "Canada", "China", "United States"],
+      "correctAnswer": "Russia"
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "answers": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Stephen Hawking"
+      ],
+      "correctAnswer": "Albert Einstein"
+    },
+    {
+      "question": "What is the boiling point of water in Fahrenheit?",
+      "answers": ["212°F", "180°F", "100°F", "300°F"],
+      "correctAnswer": "212°F"
+    },
+    {
+      "question": "Which chemical element has the highest melting point?",
+      "answers": ["Carbon", "Tungsten", "Platinum", "Uranium"],
+      "correctAnswer": "Tungsten"
+    },
+    {
+      "question": "Who was the first person to set foot on the moon?",
+      "answers": [
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "Alan Shepard"
+      ],
+      "correctAnswer": "Neil Armstrong"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "answers": ["Yuan", "Yen", "Won", "Dollar"],
+      "correctAnswer": "Yen"
+    },
+    {
+      "question": "Who is the author of 'To Kill a Mockingbird'?",
+      "answers": [
+        "Mark Twain",
+        "Harper Lee",
+        "John Steinbeck",
+        "F. Scott Fitzgerald"
+      ],
+      "correctAnswer": "Harper Lee"
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "answers": ["Mount Kilimanjaro", "Mount Everest", "K2", "Mount Fuji"],
+      "correctAnswer": "Mount Everest"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "answers": ["Mars", "Venus", "Jupiter", "Saturn"],
+      "correctAnswer": "Mars"
+    },
+    {
+      "question": "What is the chemical symbol for silver?",
+      "answers": ["Si", "Sv", "Ag", "Sl"],
+      "correctAnswer": "Ag"
+    },
+    {
+      "question": "Who painted the ceiling of the Sistine Chapel?",
+      "answers": ["Leonardo da Vinci", "Raphael", "Donatello", "Michelangelo"],
+      "correctAnswer": "Michelangelo"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "answers": [
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean"
+      ],
+      "correctAnswer": "Pacific Ocean"
+    },
+    {
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "answers": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Argon"],
+      "correctAnswer": "Nitrogen"
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "answers": ["1910", "1912", "1914", "1916"],
+      "correctAnswer": "1912"
+    },
+    {
+      "question": "Who is known as the 'Father of Computer Science'?",
+      "answers": ["Steve Jobs", "Alan Turing", "Bill Gates", "Tim Berners-Lee"],
+      "correctAnswer": "Alan Turing"
+    },
+    {
+      "question": "Which country won the 2018 FIFA World Cup?",
+      "answers": ["Germany", "Brazil", "France", "Spain"],
+      "correctAnswer": "France"
+    },
+    {
+      "question": "Who is the all-time leading scorer in NBA history?",
+      "answers": [
+        "Kareem Abdul-Jabbar",
+        "LeBron James",
+        "Michael Jordan",
+        "Kobe Bryant"
+      ],
+      "correctAnswer": "Kareem Abdul-Jabbar"
+    },
+    {
+      "question": "Which city hosted the 2016 Summer Olympics?",
+      "answers": ["Rio de Janeiro", "Tokyo", "Beijing", "London"],
+      "correctAnswer": "Rio de Janeiro"
+    },
+    {
+      "question": "In which sport can you win the Davis Cup?",
+      "answers": ["Tennis", "Golf", "Soccer", "Rugby"],
+      "correctAnswer": "Tennis"
+    },
+    {
+      "question": "Who is the only boxer to win titles in 8 different weight divisions?",
+      "answers": [
+        "Floyd Mayweather Jr.",
+        "Mike Tyson",
+        "Manny Pacquiao",
+        "Muhammad Ali"
+      ],
+      "correctAnswer": "Manny Pacquiao"
+    },
+    {
+      "question": "Which country has won the most Olympic gold medals?",
+      "answers": ["United States", "China", "Russia", "Germany"],
+      "correctAnswer": "United States"
+    },
+    {
+      "question": "Which team has won the most Super Bowl titles in NFL history?",
+      "answers": [
+        "Dallas Cowboys",
+        "New England Patriots",
+        "Pittsburgh Steelers",
+        "San Francisco 49ers"
+      ],
+      "correctAnswer": "Pittsburgh Steelers"
+    },
+    {
+      "question": "Who won the 2019 Wimbledon Men's Singles title?",
+      "answers": [
+        "Roger Federer",
+        "Novak Djokovic",
+        "Rafael Nadal",
+        "Andy Murray"
+      ],
+      "correctAnswer": "Novak Djokovic"
+    },
+    {
+      "question": "Which country won the most recent Rugby World Cup in 2019?",
+      "answers": ["New Zealand", "Australia", "England", "South Africa"],
+      "correctAnswer": "South Africa"
+    },
+    {
+      "question": "Which athlete has the world record for the men's 100m sprint?",
+      "answers": [
+        "Usain Bolt",
+        "Carl Lewis",
+        "Florence Griffith-Joyner",
+        "Justin Gatlin"
+      ],
+      "correctAnswer": "Usain Bolt"
+    },
+    {
+      "question": "Which player has won the most Ballon d'Or awards?",
+      "answers": [
+        "Cristiano Ronaldo",
+        "Lionel Messi",
+        "Michel Platini",
+        "Johan Cruyff"
+      ],
+      "correctAnswer": "Lionel Messi"
+    },
+    {
+      "question": "Which country has won the most FIFA World Cup titles?",
+      "answers": ["Brazil", "Germany", "Argentina", "Italy"],
+      "correctAnswer": "Brazil"
+    },
+    {
+      "question": "Who is the all-time leading goal scorer in the UEFA Champions League?",
+      "answers": [
+        "Cristiano Ronaldo",
+        "Lionel Messi",
+        "Raul",
+        "Robert Lewandowski"
+      ],
+      "correctAnswer": "Cristiano Ronaldo"
+    },
+    {
+      "question": "Which club has won the most UEFA Champions League titles?",
+      "answers": ["Real Madrid", "FC Barcelona", "Bayern Munich", "Liverpool"],
+      "correctAnswer": "Real Madrid"
+    },
+    {
+      "question": "Who is the top scorer in the history of the English Premier League?",
+      "answers": [
+        "Alan Shearer",
+        "Wayne Rooney",
+        "Thierry Henry",
+        "Sergio Agüero"
+      ],
+      "correctAnswer": "Alan Shearer"
+    },
+    {
+      "question": "Which player holds the record for the most goals scored in a single Premier League season?",
+      "answers": [
+        "Luis Suarez",
+        "Thierry Henry",
+        "Cristiano Ronaldo",
+        "Mohamed Salah"
+      ],
+      "correctAnswer": "Mohamed Salah"
+    },
+    {
+      "question": "Who won the FIFA Women's World Cup in 2019?",
+      "answers": ["United States", "Netherlands", "Germany", "England"],
+      "correctAnswer": "United States"
+    },
+    {
+      "question": "Which player has won the most Premier League Golden Boot awards?",
+      "answers": [
+        "Thierry Henry",
+        "Alan Shearer",
+        "Sergio Agüero",
+        "Harry Kane"
+      ],
+      "correctAnswer": "Thierry Henry"
+    },
+    {
+      "question": "Who is the all-time leading scorer for the Spanish national team?",
+      "answers": ["Raul", "Fernando Hierro", "David Villa", "David Silva"],
+      "correctAnswer": "David Villa"
+    },
+    {
+      "question": "Which country has won the most UEFA European Championship titles?",
+      "answers": ["Germany", "Spain", "France", "Italy"],
+      "correctAnswer": "Germany"
+    },
+    {
+      "question": "Who is the CEO of Tesla?",
+      "answers": ["Elon Musk", "Jeff Bezos", "Tim Cook", "Satya Nadella"],
+      "correctAnswer": "Elon Musk"
+    },
+    {
+      "question": "Which company developed the Android operating system?",
+      "answers": ["Google", "Apple", "Microsoft", "Samsung"],
+      "correctAnswer": "Google"
+    },
+    {
+      "question": "What does CPU stand for?",
+      "answers": [
+        "Central Processing Unit",
+        "Computer Processing Unit",
+        "Central Power Unit",
+        "Central Print Unit"
+      ],
+      "correctAnswer": "Central Processing Unit"
+    },
+    {
+      "question": "Who is the founder of Microsoft Corporation?",
+      "answers": ["Bill Gates", "Steve Jobs", "Mark Zuckerberg", "Larry Page"],
+      "correctAnswer": "Bill Gates"
+    },
+    {
+      "question": "Which programming language is often used for artificial intelligence and machine learning?",
+      "answers": ["Python", "Java", "C++", "Ruby"],
+      "correctAnswer": "Python"
+    },
+    {
+      "question": "What does HTML stand for?",
+      "answers": [
+        "Hypertext Markup Language",
+        "Hyper Transfer Markup Language",
+        "Home Tool Markup Language",
+        "Hyperlink and Text Markup Language"
+      ],
+      "correctAnswer": "Hypertext Markup Language"
+    },
+    {
+      "question": "What is the full form of URL in the context of web browsing?",
+      "answers": [
+        "Uniform Resource Locator",
+        "Universal Resource Link",
+        "Uniform Registered Link",
+        "Universal Registered Locator"
+      ],
+      "correctAnswer": "Uniform Resource Locator"
+    },
+    {
+      "question": "Which company developed the Java programming language?",
+      "answers": ["Sun Microsystems", "IBM", "Microsoft", "Oracle"],
+      "correctAnswer": "Sun Microsystems"
+    },
+    {
+      "question": "What is the term for a program that replicates itself and spreads to other computers?",
+      "answers": ["Virus", "Trojan Horse", "Worm", "Malware"],
+      "correctAnswer": "Worm"
+    },
+    {
+      "question": "What does VPN stand for in the context of network security?",
+      "answers": [
+        "Virtual Private Network",
+        "Virtual Public Network",
+        "Verified Private Network",
+        "Visual Private Network"
+      ],
+      "correctAnswer": "Virtual Private Network"
+    }
+  ]
+}
