@@ -68,7 +68,7 @@ const Start = () => {
   }, [])
 
   return (
-    <div className="mx-auto flex h-5/6 w-9/12 flex-col items-center   justify-center rounded-md border border-green-400 p-4 text-slate-100">
+    <div className="mx-auto flex min-h-fit max-w-xl flex-col items-center justify-center  rounded-md border border-green-400 bg-sky-950 p-4 text-slate-100">
       {currentQuestion && (
         <>
           <Questions
