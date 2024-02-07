@@ -4,13 +4,13 @@ import questionsData from "../../../data/questions.json"
 import FinalResult from "@/components/FinalResult"
 
 const Questions = ({ question }) => (
-  <div className="p-4 text-center text-2xl">
+  <div className="py-1 md:p-4 text-center text-sm md:text-2xl font-bold">
     <h2>{question.question}</h2>
   </div>
 )
 
 const Answers = ({ answers, onAnswerClick }) => (
-  <div className="grid w-full cursor-pointer grid-cols-2 gap-3 py-4">
+  <div className="grid w-full cursor-pointer grid-cols-1 text-xs md:text-lg gap-3 py-4 md:grid-cols-2 lg:grid-rows-2">
     {answers.map((answer, index) => (
       <p
         className="cursor-pointer rounded-md border border-green-400 p-2 text-center hover:bg-green-500"
@@ -57,7 +57,8 @@ const Start = () => {
     const previousScores = JSON.parse(localStorage.getItem("quizScores")) || []
     const newScore = {
       score: score,
-      timestamp: new Date().toLocaleString(),
+      date: new Date().toLocaleDateString(),
+      time: new Date().toLocaleTimeString(),
     }
     const updatedScores = [...previousScores, newScore]
     localStorage.setItem("quizScores", JSON.stringify(updatedScores))
@@ -68,7 +69,7 @@ const Start = () => {
   }, [])
 
   return (
-    <div className="mx-auto flex min-h-fit max-w-xl flex-col items-center justify-center  rounded-md border border-green-400 bg-sky-950 p-4 text-slate-100">
+    <div className="mx-auto flex max-w-md flex-col items-center justify-center rounded-md  border border-green-400 bg-sky-950  p-6 text-slate-100">
       {currentQuestion && (
         <>
           <Questions
