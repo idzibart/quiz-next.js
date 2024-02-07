@@ -69,7 +69,7 @@ const Start = () => {
   }, [])
 
   return (
-    <div className="mx-auto flex max-w-md flex-col items-center justify-center rounded-md  border border-green-400 bg-sky-950  p-6 text-slate-100">
+    <div className="mx-auto flex max-w-sm md:max-w-lg flex-col items-center justify-center rounded-md  border border-green-400 bg-sky-950  p-6 text-slate-100">
       {currentQuestion && (
         <>
           <Questions
